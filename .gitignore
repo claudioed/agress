@@ -54,6 +54,7 @@
 # *.ipr
 
 /vendor
+.idea
 
 # CMake
 cmake-build-*/
